@@ -1,0 +1,15 @@
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.csproj.AssemblyReference.cache
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.AssemblyInfoInputs.cache
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.AssemblyInfo.cs
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.csproj.CoreCompileInputs.cache
+D:\Олет\HW_C#\hw-sem_1_z1\bin\Debug\net6.0\hw-sem_1_z1.exe
+D:\Олет\HW_C#\hw-sem_1_z1\bin\Debug\net6.0\hw-sem_1_z1.deps.json
+D:\Олет\HW_C#\hw-sem_1_z1\bin\Debug\net6.0\hw-sem_1_z1.runtimeconfig.json
+D:\Олет\HW_C#\hw-sem_1_z1\bin\Debug\net6.0\hw-sem_1_z1.dll
+D:\Олет\HW_C#\hw-sem_1_z1\bin\Debug\net6.0\hw-sem_1_z1.pdb
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.dll
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\refint\hw-sem_1_z1.dll
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.pdb
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\hw-sem_1_z1.genruntimeconfig.cache
+D:\Олет\HW_C#\hw-sem_1_z1\obj\Debug\net6.0\ref\hw-sem_1_z1.dll
